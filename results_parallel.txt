@@ -1,0 +1,8 @@
+For M=10000, n_simulation=10000 : 
+For 1-dimension, the probability is:
+0.990800
+For 2-dimension, the probability is:
+0.732800
+For 3-dimension, the probability is:
+0.341400
+Total elapsed time for parallel code: 486.917172
