@@ -1,0 +1,4 @@
+﻿  1d_simulation.cpp
+c:\001_peiyang\001_git_repo\ds_random_walk_montecarlo_simulation\random_walk\random_walk\1d_simulation.cpp(3): warning C4101: 'dist': unreferenced local variable
+c:\001_peiyang\001_git_repo\ds_random_walk_montecarlo_simulation\random_walk\random_walk\1d_simulation.cpp(4): warning C4101: 'n': unreferenced local variable
+  random_walk.vcxproj -> C:\001_peiyang\001_git_repo\DS_random_walk_MonteCarlo_simulation\random_walk\Debug\random_walk.exe
